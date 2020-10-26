@@ -1,4 +1,4 @@
-#Key Generator App
+# Key Generator App
 
 An app that will create RSA public and private key and will shard the private key into K shards.
 
